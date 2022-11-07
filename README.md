@@ -1,2 +1,0 @@
-# gnao
-pagina web
